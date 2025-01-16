@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/workspace/hibob-web-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hibob-web-client" opened="true" projectWorkspaceId="2riOXwijBBCtuxMoPcGvg3CloqS">
+              <option name="activationTimestamp" value="1737040542581" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-243.22562.222" />
+              <option name="buildTimestamp" value="1734511740000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo customColor="f24f7ae5" />
+              </option>
+              <frame x="-1920" y="-42" width="1920" height="1055" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1737038472937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="/workspace/hibob-web-client" />
+  </component>
+</application>
