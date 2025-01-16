@@ -1,1 +1,6 @@
-alias gs='git status'
+alias gp='git push'
+alias r='npm run bob'
+alias rr='npm run core'
+alias gsa='git stash apply'
+alias gs='git stash'
+alias bt='npm run bob-tools'
