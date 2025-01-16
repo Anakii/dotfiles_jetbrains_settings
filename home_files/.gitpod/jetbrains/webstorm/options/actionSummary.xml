@@ -21,6 +21,9 @@
     <e n="GotoDeclaration">
       <i c="5" l="1737040359851" />
     </e>
+    <e n="RestartIde">
+      <i c="1" d="1" l="1737041214940" k="1737041214940" />
+    </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
     </e>
