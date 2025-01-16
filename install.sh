@@ -42,4 +42,5 @@ workspace_xml="${GITPOD_REPO_ROOT}/.idea/workspace.xml"
   }
   watch_workspace_xml & disown
 # fi
-echo 'source $HOME/.myrc' > "$HOME/.bashrc"
+echo 'source $HOME/.myrc' >> "$HOME/.zshrc"
+echo 'source $HOME/.myrc' >> "$HOME/.bashrc"
