@@ -9,11 +9,17 @@
     <e n="CaptureMemorySnapShot">
       <i c="1" l="1737039793770" />
     </e>
+    <e n="EditorDown">
+      <i c="9" l="1737042286068" />
+    </e>
     <e n="EditorEnter">
-      <i c="1" l="1737039582307" />
+      <i c="2" l="1737042287413" />
     </e>
     <e n="EditorPaste">
-      <i c="3" l="1737039582729" />
+      <i c="4" l="1737042280948" />
+    </e>
+    <e n="EditorUp">
+      <i c="9" l="1737042283140" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1737038587222" />
@@ -23,6 +29,9 @@
     </e>
     <e n="RestartIde">
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1737042294197" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
