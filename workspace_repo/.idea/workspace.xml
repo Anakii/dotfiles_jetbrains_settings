@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6e69339-e7bb-4b1c-b3f2-baaa275e0f8c" name="Changes" comment="rebase">
+      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,7 @@
       <updated>1737038472857</updated>
       <workItem from="1737038474619" duration="2074000" />
       <workItem from="1737040581468" duration="634000" />
-      <workItem from="1737041232471" duration="1784000" />
+      <workItem from="1737041232471" duration="2163000" />
     </task>
     <task id="LOCAL-00001" summary="rebase">
       <option name="closed" value="true" />
