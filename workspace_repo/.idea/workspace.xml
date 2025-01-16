@@ -61,7 +61,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.0507109" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3180095" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
@@ -93,7 +93,7 @@
       <updated>1737038472857</updated>
       <workItem from="1737038474619" duration="2074000" />
       <workItem from="1737040581468" duration="634000" />
-      <workItem from="1737041232471" duration="1062000" />
+      <workItem from="1737041232471" duration="1447000" />
     </task>
     <task id="LOCAL-00001" summary="rebase">
       <option name="closed" value="true" />

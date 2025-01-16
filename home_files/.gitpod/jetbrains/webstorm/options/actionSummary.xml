@@ -1,13 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="4" l="1737040104402" />
+      <i c="10" l="1737042674074" />
     </e>
     <e n="Back">
       <i c="4" l="1737040361488" />
     </e>
     <e n="CaptureMemorySnapShot">
       <i c="1" l="1737039793770" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1737042652344" />
     </e>
     <e n="EditorDown">
       <i c="9" l="1737042286068" />
@@ -16,7 +19,10 @@
       <i c="2" l="1737042287413" />
     </e>
     <e n="EditorPaste">
-      <i c="4" l="1737042280948" />
+      <i c="5" l="1737042639417" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="3" l="1737042651452" />
     </e>
     <e n="EditorUp">
       <i c="9" l="1737042283140" />
@@ -31,7 +37,7 @@
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
     </e>
     <e n="SaveAll">
-      <i c="1" l="1737042294197" />
+      <i c="3" l="1737042679487" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
