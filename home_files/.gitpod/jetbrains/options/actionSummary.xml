@@ -1,0 +1,235 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="3" l="1737024028404" />
+    </e>
+    <e n="$Delete">
+      <i c="5" l="1737027106359" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1736945157315" />
+    </e>
+    <e n="$Redo">
+      <i c="4" l="1735118464914" />
+    </e>
+    <e n="$SelectAll">
+      <i c="37" l="1737021574532" />
+    </e>
+    <e n="$Undo">
+      <i c="470" l="1737026137945" />
+    </e>
+    <e n="Annotate">
+      <i c="6" l="1736929787019" />
+    </e>
+    <e n="Back">
+      <i c="256" l="1737015432430" />
+    </e>
+    <e n="CaptureMemorySnapShot">
+      <i c="1" l="1737023942929" />
+    </e>
+    <e n="ChangesView.Move">
+      <i c="1" l="1735030058862" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="34" l="1737027093442" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="58" l="1737003627807" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="132" l="1737029776578" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1736947614870" />
+    </e>
+    <e n="DownloadBackendFileToClient">
+      <i c="1" l="1737024104409" />
+    </e>
+    <e n="EditSource">
+      <i c="25" l="1737018026434" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2923" l="1737029295715" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="469" l="1737018325953" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="4" l="1735720949397" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1061" l="1737029354661" />
+    </e>
+    <e n="EditorCut">
+      <i c="89" l="1737021550876" />
+    </e>
+    <e n="EditorDelete">
+      <i c="176" l="1737015123115" />
+    </e>
+    <e n="EditorDown">
+      <i c="761" l="1737025831442" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1735641085925" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="90" l="1737022330245" />
+    </e>
+    <e n="EditorEnter">
+      <i c="788" l="1737029000040" />
+    </e>
+    <e n="EditorEscape">
+      <i c="4" l="1736338850381" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="5" l="1736324488805" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3584" l="1737029005338" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="1261" l="1737029006501" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="208" l="1737026121969" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="64" l="1737027292206" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="76" l="1737025969777" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="72" l="1737025977084" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="2" l="1736941375160" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="1" l="1735555928846" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1034" l="1737029160039" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1736229436899" />
+    </e>
+    <e n="EditorRight">
+      <i c="3138" l="1737029151590" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="1110" l="1737027294400" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="1570" l="1737027407201" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1735441867844" />
+    </e>
+    <e n="EditorTab">
+      <i c="47" l="1736928997872" />
+    </e>
+    <e n="EditorUp">
+      <i c="582" l="1737018482761" />
+    </e>
+    <e n="Find">
+      <i c="4" l="1736340602623" />
+    </e>
+    <e n="FindInPath">
+      <i c="1" l="1735130710826" />
+    </e>
+    <e n="FindUsages">
+      <i c="35" l="1736949308713" />
+    </e>
+    <e n="Git.Unstash">
+      <i c="1" l="1734972071082" />
+    </e>
+    <e n="GitCheckoutAction">
+      <i c="65" l="1737027674764" />
+    </e>
+    <e n="GitCheckoutFromInputAction">
+      <i c="1" l="1737021553711" />
+    </e>
+    <e n="GitNewBranchAction">
+      <i c="35" l="1737021558019" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="635" l="1737024335852" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="4" l="1737029004663" />
+    </e>
+    <e n="MoveLineDown">
+      <i c="55" l="1737018838111" />
+    </e>
+    <e n="MoveLineUp">
+      <i c="155" l="1736946256718" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="3" l="1735552854758" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="1" l="1735469871347" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1735113349346" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1735113362231" />
+    </e>
+    <e n="NewPackageJsonFile">
+      <i c="1" d="1" l="1734962423134" k="1734962423134" />
+    </e>
+    <e n="NextInlineCompletionSuggestionAction">
+      <i c="1" l="1735470951167" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="23" l="1737015344480" />
+    </e>
+    <e n="RenameElement">
+      <i c="26" l="1737015340246" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1736363715125" />
+    </e>
+    <e n="SaveAll">
+      <i c="704" l="1737029780774" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="14" l="1737018794889" />
+    </e>
+    <e n="Vcs.RollbackChangedLines">
+      <i c="18" l="1736151963874" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.MergeableLineMarkerInfo$1">
+      <i c="1" l="1736345257705" />
+    </e>
+    <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
+      <i c="11" l="1736345557479" />
+    </e>
+    <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
+      <i c="1" l="1735475803988" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1737023952609" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="57" l="1736950069637" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1736341692640" />
+    </e>
+    <e n="com.intellij.openapi.vcs.changes.savedPatches.SavedPatchesUi$buildBottomToolbar$applyAction$1">
+      <i c="2" l="1734972115189" />
+    </e>
+    <e n="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
+      <i c="1" l="1736162307724" />
+    </e>
+    <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
+      <i c="1" l="1735717339688" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="4" l="1735647505116" />
+    </e>
+  </component>
+</application>

@@ -4,19 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6e69339-e7bb-4b1c-b3f2-baaa275e0f8c" name="Changes" comment="rebase">
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" afterDir="false" />
+    <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="fix test">
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/data/src/lib/ai-api-service/ai-api.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/data/src/lib/ai-api-service/ai-api.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-attachment/ai-chat-attachment.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-attachment/ai-chat-attachment.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="or/kpis-add-indication-for-ootb-dashboard-when-duplicating" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,25 +33,26 @@
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;f24f7ae5&quot;
 }</component>
-  <component name="ProjectId" id="2riOXwijBBCtuxMoPcGvg3CloqS" />
+  <component name="ProjectId" id="2qcP5FhVzzoYnZtmTbiraS1w5pN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;or/kpis-smart-search-poc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/workspace/hibob-web-client/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Karma.ai-ui-state.store.spec.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/workspace/hibob-web-client/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -50,8 +60,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14453125" />
-      <window_info id="Commit" order="1" weight="0.32994792" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1861979" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.1861979" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -59,11 +69,15 @@
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="File Transfer" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.41184837" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3180095" />
-      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Services" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3028436" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.31137443" />
+      <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
@@ -73,9 +87,30 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Qodo Gen Tests" order="5" />
-      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.3361979" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.28515625" />
     </layout>
+  </component>
+  <component name="RunManager">
+    <configuration name="ai-ui-state.store.spec.ts" type="JavaScriptTestRunnerKarma" temporary="true" nameIsGenerated="true">
+      <config-file value="$PROJECT_DIR$/libs/common/ai/data/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/nx" />
+      <working-directory value="$PROJECT_DIR$/libs/common/ai/data" />
+      <node-interpreter value="project" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file-path value="$PROJECT_DIR$/libs/common/ai/data/src/lib/ai-ui-state-store/ai-ui-state.store.spec.ts" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Karma.ai-ui-state.store.spec.ts" />
+        <item itemvalue="Karma.ai-ui-state.store.spec.ts" />
+        <item itemvalue="Karma.ai-ui-state.store.spec.ts" />
+        <item itemvalue="Karma.ai-ui-state.store.spec.ts" />
+        <item itemvalue="Karma.ai-ui-state.store.spec.ts" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -87,24 +122,431 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6e69339-e7bb-4b1c-b3f2-baaa275e0f8c" name="Changes" comment="" />
-      <created>1737038472857</created>
+      <changelist id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="" />
+      <created>1734958705847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1737038472857</updated>
-      <workItem from="1737038474619" duration="2074000" />
-      <workItem from="1737040581468" duration="634000" />
-      <workItem from="1737041232471" duration="2163000" />
+      <updated>1734958705847</updated>
+      <workItem from="1734958708271" duration="11420000" />
+      <workItem from="1735024809031" duration="24438000" />
+      <workItem from="1735094062200" duration="12911000" />
+      <workItem from="1735111838168" duration="19467000" />
+      <workItem from="1735199376530" duration="14241000" />
+      <workItem from="1735439379567" duration="6315000" />
+      <workItem from="1735455965090" duration="25681000" />
+      <workItem from="1735530813926" duration="5069000" />
+      <workItem from="1735544127255" duration="20681000" />
+      <workItem from="1735612579580" duration="33223000" />
+      <workItem from="1735744075786" duration="722000" />
+      <workItem from="1735803452458" duration="4330000" />
+      <workItem from="1735811980864" duration="4723000" />
+      <workItem from="1736149142402" duration="7977000" />
+      <workItem from="1736159418589" duration="12344000" />
+      <workItem from="1736225948598" duration="28748000" />
+      <workItem from="1736363697473" duration="1087000" />
+      <workItem from="1736407546915" duration="1045000" />
+      <workItem from="1736427040570" duration="2612000" />
+      <workItem from="1736735728212" duration="5143000" />
+      <workItem from="1736752128355" duration="12456000" />
+      <workItem from="1736928135597" duration="3879000" />
+      <workItem from="1736937306515" duration="12405000" />
+      <workItem from="1737003516260" duration="1079000" />
+      <workItem from="1737013466425" duration="9439000" />
+      <workItem from="1737024471939" duration="5926000" />
     </task>
-    <task id="LOCAL-00001" summary="rebase">
+    <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
-      <created>1737039018594</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+      <created>1735218722185</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1737039018594</updated>
+      <updated>1735218722185</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00012" summary="rm comment">
+      <option name="closed" value="true" />
+      <created>1735218790289</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735218790289</updated>
+    </task>
+    <task id="LOCAL-00013" summary="infra ui fixes 2">
+      <option name="closed" value="true" />
+      <created>1735444580502</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735444580502</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add padding top only to the first chat element">
+      <option name="closed" value="true" />
+      <created>1735445088881</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735445088881</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update server with view when dialog open and view changed">
+      <option name="closed" value="true" />
+      <created>1735473860371</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735473860371</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ai dialog ui fixes part 4">
+      <option name="closed" value="true" />
+      <created>1735533468676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1735533468677</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add mock">
+      <option name="closed" value="true" />
+      <created>1735536494302</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1735536494302</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add mock">
+      <option name="closed" value="true" />
+      <created>1735536728546</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1735536728546</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add ai secondary square button style">
+      <option name="closed" value="true" />
+      <created>1735550209224</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735550209225</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add ai function mapper interface">
+      <option name="closed" value="true" />
+      <created>1735558416870</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735558416870</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add expand item indication to the ai dialog">
+      <option name="closed" value="true" />
+      <created>1735633124710</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735633124710</updated>
+    </task>
+    <task id="LOCAL-00022" summary="dialog fixes and empty search state">
+      <option name="closed" value="true" />
+      <created>1735645349720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735645349720</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add ai colors to charts and table card">
+      <option name="closed" value="true" />
+      <created>1735717562377</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735717562377</updated>
+    </task>
+    <task id="LOCAL-00024" summary="small change">
+      <option name="closed" value="true" />
+      <created>1735717724487</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735717724487</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add table download">
+      <option name="closed" value="true" />
+      <created>1735722670738</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735722670738</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add toggle back">
+      <option name="closed" value="true" />
+      <created>1735722757789</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1735722757789</updated>
+    </task>
+    <task id="LOCAL-00027" summary="rename enum">
+      <option name="closed" value="true" />
+      <created>1735732357940</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735732357940</updated>
+    </task>
+    <task id="LOCAL-00028" summary="use only askAboutMyDataToggle toggle">
+      <option name="closed" value="true" />
+      <created>1735735425298</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1735735425298</updated>
+    </task>
+    <task id="LOCAL-00029" summary="make context required">
+      <option name="closed" value="true" />
+      <created>1735740396173</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735740396173</updated>
+    </task>
+    <task id="LOCAL-00030" summary="make table download0action more generic">
+      <option name="closed" value="true" />
+      <created>1735807073955</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1735807073955</updated>
+    </task>
+    <task id="LOCAL-00031" summary="change ai initial response to include display name and not first name">
+      <option name="closed" value="true" />
+      <created>1736159914906</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1736159914906</updated>
+    </task>
+    <task id="LOCAL-00032" summary="e2e fix">
+      <option name="closed" value="true" />
+      <created>1736160765183</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1736160765183</updated>
+    </task>
+    <task id="LOCAL-00033" summary="e2e fix">
+      <option name="closed" value="true" />
+      <created>1736160836601</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1736160836601</updated>
+    </task>
+    <task id="LOCAL-00034" summary="e2e fix">
+      <option name="closed" value="true" />
+      <created>1736160868451</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1736160868451</updated>
+    </task>
+    <task id="LOCAL-00035" summary="old ai dialog minimize position fix">
+      <option name="closed" value="true" />
+      <created>1736164545294</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736164545294</updated>
+    </task>
+    <task id="LOCAL-00036" summary="wip">
+      <option name="closed" value="true" />
+      <created>1736164888804</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1736164888805</updated>
+    </task>
+    <task id="LOCAL-00037" summary="wip">
+      <option name="closed" value="true" />
+      <created>1736165124625</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1736165124626</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix chart svg download inforce correct chart mime type">
+      <option name="closed" value="true" />
+      <created>1736175463960</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1736175463960</updated>
+    </task>
+    <task id="LOCAL-00039" summary="enable legends in export">
+      <option name="closed" value="true" />
+      <created>1736227773812</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1736227773813</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix reset graph issue">
+      <option name="closed" value="true" />
+      <created>1736238534866</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1736238534866</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add support to get ai chat dialog initial message from server">
+      <option name="closed" value="true" />
+      <created>1736343278137</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1736343278137</updated>
+    </task>
+    <task id="LOCAL-00042" summary="fix test mocks">
+      <option name="closed" value="true" />
+      <created>1736345421136</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1736345421136</updated>
+    </task>
+    <task id="LOCAL-00043" summary="poc">
+      <option name="closed" value="true" />
+      <created>1736345481016</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1736345481016</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix mocks">
+      <option name="closed" value="true" />
+      <created>1736345604179</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1736345604179</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add shared indicator in dashboard page">
+      <option name="closed" value="true" />
+      <created>1736738043436</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738043436</updated>
+    </task>
+    <task id="LOCAL-00046" summary="rebase">
+      <option name="closed" value="true" />
+      <created>1736738196259</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738196259</updated>
+    </task>
+    <task id="LOCAL-00047" summary="rebase">
+      <option name="closed" value="true" />
+      <created>1736738412105</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738412106</updated>
+    </task>
+    <task id="LOCAL-00048" summary="rebase">
+      <option name="closed" value="true" />
+      <created>1736738469523</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1736738469523</updated>
+    </task>
+    <task id="LOCAL-00049" summary="ai change api urls changes">
+      <option name="closed" value="true" />
+      <created>1736756917699</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1736756917699</updated>
+    </task>
+    <task id="LOCAL-00050" summary="small fix">
+      <option name="closed" value="true" />
+      <created>1736757641152</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1736757641153</updated>
+    </task>
+    <task id="LOCAL-00051" summary="small fix">
+      <option name="closed" value="true" />
+      <created>1736857111478</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1736857111478</updated>
+    </task>
+    <task id="LOCAL-00052" summary="rm old apis">
+      <option name="closed" value="true" />
+      <created>1736864508391</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1736864508391</updated>
+    </task>
+    <task id="LOCAL-00053" summary="rm old apis">
+      <option name="closed" value="true" />
+      <created>1736864585033</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1736864585033</updated>
+    </task>
+    <task id="LOCAL-00054" summary="rm old apis">
+      <option name="closed" value="true" />
+      <created>1736864679664</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1736864679664</updated>
+    </task>
+    <task id="LOCAL-00055" summary="ai dialog table download">
+      <option name="closed" value="true" />
+      <created>1736933234938</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1736933234939</updated>
+    </task>
+    <task id="LOCAL-00056" summary="small fix">
+      <option name="closed" value="true" />
+      <created>1736939773404</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1736939773404</updated>
+    </task>
+    <task id="LOCAL-00057" summary="dialog improve separator logic">
+      <option name="closed" value="true" />
+      <created>1736947546828</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1736947546828</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add indication for ootb dashboard when duplicating">
+      <option name="closed" value="true" />
+      <created>1737021606411</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1737021606411</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fix test">
+      <option name="closed" value="true" />
+      <created>1737027492294</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1737027492295</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +567,102 @@
         <option value="$PROJECT_DIR$/libs/common/core/external-user/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/core/external-user/feature/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/core/external-user/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/objects/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/company-values/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/candidate-checks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/mobile/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/careers/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/settings/wallet-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/store/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/groups/groups-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/api-audit/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/ip-trust-list/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/data-retention/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/manage-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-wizard-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/personalization-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/company-feature-toggles-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/bob-features/bob-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/setup-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/setup-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/compensation/common-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/platform/bob-style/ai/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/platform/bob-feature-toggles/bob-feature-toggles-common/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/services/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/home/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-shared/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/talent-group/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/reports/reports/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/pay-details/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/payroll/integrations/integrations/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/mocks/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/learning/settings/data/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/common/components/bob-grid/bob-grid-ui/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/components/bob-grid/bob-grid-data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/components/bob-calendar/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/components/bob-benchmarks/data/jest.config.js" />
@@ -173,26 +711,6 @@
         <option value="$PROJECT_DIR$/libs/features/core/people/employee-settings-metadata-audit/data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/people/employee-settings-metadata-audit/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/reports/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/docs/document-template-editor/services/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/home/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/home/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/home/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/external/time-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/internal/time-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-shared/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/time/working-pattern/working-pattern-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/groups/groups-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/mocks/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/shared/learning-types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/settings/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/learning/settings/data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/learning/settings/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/learning/settings/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/learning/my-learning/ui/jest.config.js" />
@@ -206,72 +724,14 @@
         <option value="$PROJECT_DIR$/libs/features/settings/settings/data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/settings/settings/feature/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/settings/integrations/integrations-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/form-builder/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/talent-group/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/performance-calibration/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/mocks/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/employee-lifecycle-feedback/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/reports/reports/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/mocks/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/payroll-us/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/pay-details/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/payroll/integrations/integrations/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/objects/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/services/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/timeline-new/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/company-values/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/company-values/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/company-values/mocks/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/company-values/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/core/company-values/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/activities/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/ats/pipeline/candidate-checks/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/crm/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/crm/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/crm/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/crm/candidate-listing/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/crm/candidate-profile/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/careers/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/careers/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/careers/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/careers/mobile/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/careers/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/settings/wallet-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hire-flow/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/interviews/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/talent/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/benchmark/settings/bob-benchmark/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/development/shared/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/ui/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/talent/development/career-path-tree/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/store/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/hiring-common/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/career-site-editor/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/hiring/recruitment-public/features/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/form-builder/types/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/talent/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/general/employee/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/general/services/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/general/bob-features-shared/jest.config.js" />
@@ -280,7 +740,6 @@
         <option value="$PROJECT_DIR$/libs/common/metadata/bob-entities/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/metadata/filter-shared/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/common/components/graphs/types/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/common/components/bob-grid/bob-grid-ui/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/wfp/settings/currencies/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/wfp/settings/wfp-positions-features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/docs/esign/ui/jest.config.js" />
@@ -304,6 +763,7 @@
         <option value="$PROJECT_DIR$/libs/features/core/attendance/ee-attendance/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/attendance/ppl-changeover-periods/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/job-catalog/ui/jest.config.js" />
+        <option value="$PROJECT_DIR$/libs/features/core/job-catalog/data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/time/time-external-data/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/flows/ui/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/flows/data/jest.config.js" />
@@ -321,35 +781,62 @@
         <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/types/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-shared/features/jest.config.js" />
         <option value="$PROJECT_DIR$/libs/features/core/tasks/tasks-settings/features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/api-audit/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/my-company/my-company-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/permissions/permission-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/ip-trust-list/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/account-access/account-access-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/data-retention/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/manage-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/import-wizard-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/personalization-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/settings/settings-pages/company-feature-toggles-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/bob-features/bob-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/settings/settings-features/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/setup-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/worksheet/worksheet-ui/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/setup-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/features/compensation/common-data/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/platform/bob-style/ai/jest.config.js" />
-        <option value="$PROJECT_DIR$/libs/platform/bob-feature-toggles/bob-feature-toggles-common/jest.config.js" />
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="add toggle back" />
+    <MESSAGE value="rename enum" />
+    <MESSAGE value="use only askAboutMyDataToggle toggle" />
+    <MESSAGE value="make context required" />
+    <MESSAGE value="make table download0action more generic" />
+    <MESSAGE value="change ai initial response to include display name and not first name" />
+    <MESSAGE value="e2e fix" />
+    <MESSAGE value="old ai dialog minimize position fix" />
+    <MESSAGE value="wip" />
+    <MESSAGE value="fix chart svg download inforce correct chart mime type" />
+    <MESSAGE value="enable legends in export" />
+    <MESSAGE value="fix reset graph issue" />
+    <MESSAGE value="add support to get ai chat dialog initial message from server" />
+    <MESSAGE value="fix test mocks" />
+    <MESSAGE value="poc" />
+    <MESSAGE value="fix mocks" />
+    <MESSAGE value="add shared indicator in dashboard page" />
     <MESSAGE value="rebase" />
-    <option name="LAST_COMMIT_MESSAGE" value="rebase" />
+    <MESSAGE value="ai change api urls changes" />
+    <MESSAGE value="rm old apis" />
+    <MESSAGE value="ai dialog table download" />
+    <MESSAGE value="small fix" />
+    <MESSAGE value="dialog improve separator logic" />
+    <MESSAGE value="add indication for ootb dashboard when duplicating" />
+    <MESSAGE value="fix test" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/libs/common/ai/chat-bot/src/lib/chatbot-dialog/chatbot-dialog.component.ts</url>
+          <line>502</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.html</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
