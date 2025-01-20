@@ -1,100 +1,100 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="44" l="1737376595432" />
+      <i c="45" l="1737381623816" />
     </e>
     <e n="Back">
-      <i c="6" l="1737373205431" />
+      <i c="8" l="1737379634866" />
     </e>
     <e n="CaptureMemorySnapShot">
       <i c="1" l="1737039793770" />
     </e>
     <e n="CommentByLineComment">
-      <i c="9" l="1737377156776" />
+      <i c="11" l="1737379624966" />
     </e>
     <e n="EditSource">
       <i c="1" l="1737369368946" />
     </e>
     <e n="EditorBackSpace">
-      <i c="103" l="1737378628336" />
+      <i c="159" l="1737381842743" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="20" l="1737378645690" />
+      <i c="26" l="1737381897930" />
     </e>
     <e n="EditorCopy">
-      <i c="59" l="1737378400801" />
+      <i c="81" l="1737381930713" />
     </e>
     <e n="EditorCut">
-      <i c="4" l="1737376333638" />
+      <i c="5" l="1737378817774" />
     </e>
     <e n="EditorDown">
-      <i c="40" l="1737378643625" />
+      <i c="62" l="1737381931259" />
     </e>
     <e n="EditorDuplicate">
-      <i c="3" l="1737377947211" />
+      <i c="5" l="1737381798091" />
     </e>
     <e n="EditorEnter">
-      <i c="49" l="1737378624078" />
+      <i c="71" l="1737381902356" />
     </e>
     <e n="EditorLeft">
-      <i c="244" l="1737378642194" />
+      <i c="294" l="1737381934064" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="37" l="1737377950589" />
+      <i c="46" l="1737381935061" />
     </e>
     <e n="EditorLineEnd">
-      <i c="21" l="1737378643932" />
+      <i c="25" l="1737379828821" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="3" l="1737375259550" />
+      <i c="4" l="1737381431242" />
     </e>
     <e n="EditorLineStart">
-      <i c="12" l="1737378649624" />
+      <i c="14" l="1737381430981" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="4" l="1737378615190" />
+      <i c="5" l="1737381436417" />
     </e>
     <e n="EditorNextWord">
       <i c="2" l="1737375550767" />
     </e>
     <e n="EditorPaste">
-      <i c="55" l="1737378611846" />
+      <i c="79" l="1737381931652" />
     </e>
     <e n="EditorRight">
-      <i c="65" l="1737378622651" />
+      <i c="71" l="1737381900113" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="56" l="1737375547036" />
+      <i c="57" l="1737380834235" />
     </e>
     <e n="EditorSelectWord">
-      <i c="68" l="1737378739330" />
+      <i c="98" l="1737381944374" />
     </e>
     <e n="EditorTab">
       <i c="10" l="1737378650257" />
     </e>
     <e n="EditorUp">
-      <i c="49" l="1737378628734" />
+      <i c="75" l="1737381932433" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1737038587222" />
     </e>
     <e n="GotoDeclaration">
-      <i c="18" l="1737375995989" />
+      <i c="25" l="1737381830598" />
     </e>
     <e n="InsertInlineCompletionAction">
-      <i c="3" l="1737374926135" />
+      <i c="5" l="1737381729676" />
     </e>
     <e n="MoveLineDown">
       <i c="1" l="1737377869234" />
     </e>
     <e n="MoveLineUp">
-      <i c="2" l="1737378625080" />
+      <i c="8" l="1737381927008" />
     </e>
     <e n="RestartIde">
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
     </e>
     <e n="SaveAll">
-      <i c="35" l="1737378740877" />
+      <i c="42" l="1737381958213" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />

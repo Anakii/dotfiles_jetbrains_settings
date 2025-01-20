@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="small fix">
+      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" afterDir="false" />
     </list>
@@ -157,7 +162,7 @@
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
       <workItem from="1737364422629" duration="3311000" />
-      <workItem from="1737369265906" duration="7522000" />
+      <workItem from="1737369265906" duration="10616000" />
     </task>
     <task id="LOCAL-00013" summary="infra ui fixes 2">
       <option name="closed" value="true" />
