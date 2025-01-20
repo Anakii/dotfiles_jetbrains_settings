@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="36" l="1737373322286" />
+      <i c="40" l="1737374248543" />
     </e>
     <e n="Back">
       <i c="6" l="1737373205431" />
@@ -10,67 +10,73 @@
       <i c="1" l="1737039793770" />
     </e>
     <e n="CommentByLineComment">
-      <i c="2" l="1737373325738" />
+      <i c="8" l="1737374954775" />
     </e>
     <e n="EditSource">
       <i c="1" l="1737369368946" />
     </e>
     <e n="EditorBackSpace">
-      <i c="24" l="1737373333132" />
+      <i c="42" l="1737375425121" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="6" l="1737373274882" />
+      <i c="14" l="1737375266350" />
     </e>
     <e n="EditorCopy">
-      <i c="19" l="1737373304601" />
+      <i c="36" l="1737374939493" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1737374903746" />
     </e>
     <e n="EditorDown">
-      <i c="17" l="1737373337528" />
+      <i c="31" l="1737375262722" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1737373027841" />
     </e>
     <e n="EditorEnter">
-      <i c="17" l="1737373278816" />
+      <i c="34" l="1737375264022" />
     </e>
     <e n="EditorLeft">
-      <i c="45" l="1737373331795" />
+      <i c="72" l="1737375224121" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="8" l="1737373239931" />
+      <i c="15" l="1737374932600" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1" l="1737373170841" />
+      <i c="7" l="1737375263213" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="1" l="1737043221347" />
+      <i c="3" l="1737375259550" />
     </e>
     <e n="EditorLineStart">
-      <i c="2" l="1737373332114" />
+      <i c="4" l="1737375247902" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="2" l="1737374021632" />
     </e>
     <e n="EditorPaste">
-      <i c="22" l="1737373284844" />
+      <i c="36" l="1737375483523" />
     </e>
     <e n="EditorRight">
-      <i c="19" l="1737373194172" />
+      <i c="23" l="1737374927222" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="43" l="1737373194951" />
+      <i c="50" l="1737373987573" />
     </e>
     <e n="EditorSelectWord">
-      <i c="37" l="1737373248363" />
+      <i c="50" l="1737375421820" />
     </e>
     <e n="EditorUp">
-      <i c="19" l="1737373331618" />
+      <i c="42" l="1737375253449" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1737038587222" />
     </e>
     <e n="GotoDeclaration">
-      <i c="13" l="1737373074927" />
+      <i c="17" l="1737375367412" />
     </e>
     <e n="InsertInlineCompletionAction">
-      <i c="2" l="1737373344845" />
+      <i c="3" l="1737374926135" />
     </e>
     <e n="MoveLineUp">
       <i c="1" l="1737043792262" />
@@ -79,7 +85,7 @@
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
     </e>
     <e n="SaveAll">
-      <i c="9" l="1737373354575" />
+      <i c="23" l="1737375484461" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
