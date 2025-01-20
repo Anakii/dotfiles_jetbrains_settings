@@ -13,7 +13,7 @@
       <i c="4" l="1735118464914" />
     </e>
     <e n="$SelectAll">
-      <i c="38" l="1737347955496" />
+      <i c="39" l="1737366980757" />
     </e>
     <e n="$Undo">
       <i c="503" l="1737366584012" />
@@ -49,7 +49,7 @@
       <i c="25" l="1737018026434" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3069" l="1737366577982" />
+      <i c="3072" l="1737366993681" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="491" l="1737366574521" />
@@ -58,7 +58,7 @@
       <i c="4" l="1735720949397" />
     </e>
     <e n="EditorCopy">
-      <i c="1130" l="1737366730100" />
+      <i c="1133" l="1737366996423" />
     </e>
     <e n="EditorCut">
       <i c="93" l="1737347228711" />
@@ -85,13 +85,13 @@
       <i c="5" l="1736324488805" />
     </e>
     <e n="EditorLeft">
-      <i c="3724" l="1737366743098" />
+      <i c="3729" l="1737366973398" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="1374" l="1737366738628" />
     </e>
     <e n="EditorLineEnd">
-      <i c="224" l="1737366215982" />
+      <i c="225" l="1737366977142" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="72" l="1737347507046" />
@@ -109,7 +109,7 @@
       <i c="1" l="1735555928846" />
     </e>
     <e n="EditorPaste">
-      <i c="1102" l="1737366739021" />
+      <i c="1103" l="1737366987941" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="1" l="1736229436899" />
@@ -121,7 +121,7 @@
       <i c="1254" l="1737347459659" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1679" l="1737366718305" />
+      <i c="1681" l="1737367230686" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1735441867844" />
@@ -145,16 +145,16 @@
       <i c="1" l="1734972071082" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="65" l="1737027674764" />
+      <i c="66" l="1737366848129" />
     </e>
     <e n="GitCheckoutFromInputAction">
       <i c="1" l="1737021553711" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="36" l="1737347933272" />
+      <i c="37" l="1737366955883" />
     </e>
     <e n="GotoDeclaration">
-      <i c="676" l="1737366434728" />
+      <i c="679" l="1737367192307" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="10" l="1737366735753" />
@@ -196,7 +196,7 @@
       <i c="1" l="1736363715125" />
     </e>
     <e n="SaveAll">
-      <i c="732" l="1737366746555" />
+      <i c="734" l="1737367236569" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="14" l="1737018794889" />
@@ -217,7 +217,7 @@
       <i c="1" l="1737023952609" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="57" l="1736950069637" />
+      <i c="60" l="1737366830766" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1736341692640" />
