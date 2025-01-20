@@ -7,6 +7,7 @@
     <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="small fix">
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" afterDir="false" />
     </list>
@@ -60,7 +61,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1783854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04869792" />
       <window_info id="Commit" order="1" weight="0.1783854" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
@@ -156,7 +157,7 @@
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
       <workItem from="1737364422629" duration="3311000" />
-      <workItem from="1737369265906" duration="4183000" />
+      <workItem from="1737369265906" duration="4887000" />
     </task>
     <task id="LOCAL-00013" summary="infra ui fixes 2">
       <option name="closed" value="true" />

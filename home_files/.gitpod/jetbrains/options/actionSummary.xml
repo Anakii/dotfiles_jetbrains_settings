@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Undo">
-      <i c="40" l="1737374248543" />
+      <i c="42" l="1737375526620" />
     </e>
     <e n="Back">
       <i c="6" l="1737373205431" />
@@ -22,7 +22,7 @@
       <i c="14" l="1737375266350" />
     </e>
     <e n="EditorCopy">
-      <i c="36" l="1737374939493" />
+      <i c="43" l="1737376107217" />
     </e>
     <e n="EditorCut">
       <i c="3" l="1737374903746" />
@@ -37,34 +37,40 @@
       <i c="34" l="1737375264022" />
     </e>
     <e n="EditorLeft">
-      <i c="72" l="1737375224121" />
+      <i c="94" l="1737375720177" />
     </e>
     <e n="EditorLeftWithSelection">
       <i c="15" l="1737374932600" />
     </e>
     <e n="EditorLineEnd">
-      <i c="7" l="1737375263213" />
+      <i c="10" l="1737375734099" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1737375259550" />
     </e>
     <e n="EditorLineStart">
-      <i c="4" l="1737375247902" />
+      <i c="6" l="1737375731281" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="2" l="1737374021632" />
     </e>
+    <e n="EditorNextWord">
+      <i c="2" l="1737375550767" />
+    </e>
     <e n="EditorPaste">
-      <i c="36" l="1737375483523" />
+      <i c="38" l="1737376179377" />
     </e>
     <e n="EditorRight">
-      <i c="23" l="1737374927222" />
+      <i c="24" l="1737375551273" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="50" l="1737373987573" />
+      <i c="56" l="1737375547036" />
     </e>
     <e n="EditorSelectWord">
-      <i c="50" l="1737375421820" />
+      <i c="52" l="1737376011022" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1737375717977" />
     </e>
     <e n="EditorUp">
       <i c="42" l="1737375253449" />
@@ -73,7 +79,7 @@
       <i c="1" l="1737038587222" />
     </e>
     <e n="GotoDeclaration">
-      <i c="17" l="1737375367412" />
+      <i c="18" l="1737375995989" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="3" l="1737374926135" />
@@ -85,7 +91,7 @@
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
     </e>
     <e n="SaveAll">
-      <i c="23" l="1737375484461" />
+      <i c="25" l="1737376188775" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
