@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="fix graph width issue">
+    <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="small fix">
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-panel-header/ai-chat-dialog-header.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/ai-chart/charts-config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/ai-chart/charts-config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
@@ -62,8 +61,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453124" />
-      <window_info id="Commit" order="1" weight="0.24453124" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24453124" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.24453124" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -157,15 +156,7 @@
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
-      <workItem from="1737364422629" duration="2096000" />
-    </task>
-    <task id="LOCAL-00012" summary="rm comment">
-      <option name="closed" value="true" />
-      <created>1735218790289</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1735218790289</updated>
+      <workItem from="1737364422629" duration="3311000" />
     </task>
     <task id="LOCAL-00013" summary="infra ui fixes 2">
       <option name="closed" value="true" />
@@ -551,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737366998805</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="small fix">
+      <option name="closed" value="true" />
+      <created>1737367362137</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1737367362137</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -821,12 +820,12 @@
     <MESSAGE value="ai change api urls changes" />
     <MESSAGE value="rm old apis" />
     <MESSAGE value="ai dialog table download" />
-    <MESSAGE value="small fix" />
     <MESSAGE value="dialog improve separator logic" />
     <MESSAGE value="add indication for ootb dashboard when duplicating" />
     <MESSAGE value="fix test" />
     <MESSAGE value="fix graph width issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix graph width issue" />
+    <MESSAGE value="small fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="small fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

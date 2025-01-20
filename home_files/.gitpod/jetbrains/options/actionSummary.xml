@@ -10,13 +10,13 @@
       <i c="1" l="1736945157315" />
     </e>
     <e n="$Redo">
-      <i c="4" l="1735118464914" />
+      <i c="5" l="1737367248042" />
     </e>
     <e n="$SelectAll">
       <i c="39" l="1737366980757" />
     </e>
     <e n="$Undo">
-      <i c="503" l="1737366584012" />
+      <i c="505" l="1737367245312" />
     </e>
     <e n="Annotate">
       <i c="6" l="1736929787019" />
@@ -49,7 +49,7 @@
       <i c="25" l="1737018026434" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3072" l="1737366993681" />
+      <i c="3075" l="1737367727091" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="491" l="1737366574521" />
@@ -58,7 +58,7 @@
       <i c="4" l="1735720949397" />
     </e>
     <e n="EditorCopy">
-      <i c="1133" l="1737366996423" />
+      <i c="1134" l="1737367244135" />
     </e>
     <e n="EditorCut">
       <i c="93" l="1737347228711" />
@@ -115,13 +115,13 @@
       <i c="1" l="1736229436899" />
     </e>
     <e n="EditorRight">
-      <i c="3455" l="1737366217411" />
+      <i c="3456" l="1737367725724" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1254" l="1737347459659" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1681" l="1737367230686" />
+      <i c="1684" l="1737367724435" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1735441867844" />
@@ -154,7 +154,7 @@
       <i c="37" l="1737366955883" />
     </e>
     <e n="GotoDeclaration">
-      <i c="679" l="1737367192307" />
+      <i c="681" l="1737367688617" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="10" l="1737366735753" />
@@ -187,16 +187,16 @@
       <i c="1" l="1735470951167" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="25" l="1737343463807" />
+      <i c="26" l="1737367728781" />
     </e>
     <e n="RenameElement">
-      <i c="28" l="1737343460634" />
+      <i c="29" l="1737367725049" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1736363715125" />
     </e>
     <e n="SaveAll">
-      <i c="734" l="1737367236569" />
+      <i c="735" l="1737368694794" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="14" l="1737018794889" />
@@ -217,7 +217,7 @@
       <i c="1" l="1737023952609" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="60" l="1737366830766" />
+      <i c="61" l="1737367758973" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1736341692640" />
