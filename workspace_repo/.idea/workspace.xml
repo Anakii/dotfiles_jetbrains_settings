@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="small fix">
-      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/components/graphs/ui/src/lib/graph-widget/graph.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/category-metrics/category-metrics.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/dashboards-management/kpis-folders-view-service/kpis-folders-view.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis-summary-graph/kpis-summary-graph.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/analytics/kpis/features/src/lib/kpis/kpis.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="or/infra-ai-dialog-fix-graph-width-issue" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +43,7 @@
     "Karma.ai-ui-state.store.spec.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "or/kpis-smart-search-poc",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,8 +60,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07421875" />
-      <window_info id="Commit" order="1" weight="0.1783854" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.05390625" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15546875" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -79,7 +73,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.27251184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.25829384" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.22701421" />
@@ -94,7 +88,7 @@
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Qodo Gen Tests" order="5" />
       <window_info anchor="right" id="github.copilotToolWindow" order="6" weight="0.32994792" />
-      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="8" visible="true" weight="0.32994792" />
+      <window_info active="true" anchor="right" id="GitHub Copilot Chat" order="7" visible="true" weight="0.24036458" />
     </layout>
   </component>
   <component name="RunManager">
@@ -163,6 +157,7 @@
       <workItem from="1737342653144" duration="4505000" />
       <workItem from="1737364422629" duration="3311000" />
       <workItem from="1737369265906" duration="10616000" />
+      <workItem from="1737387989156" duration="778000" />
     </task>
     <task id="LOCAL-00013" summary="infra ui fixes 2">
       <option name="closed" value="true" />
