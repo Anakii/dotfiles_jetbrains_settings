@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,10 +74,10 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.15023696" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.22701421" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
-      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.22701421" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.22701421" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
@@ -154,7 +155,7 @@
       <workItem from="1737013466425" duration="9439000" />
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
-      <workItem from="1737342653144" duration="825000" />
+      <workItem from="1737342653144" duration="3662000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
