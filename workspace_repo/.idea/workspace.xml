@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.spec.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
@@ -157,7 +158,7 @@
       <workItem from="1737013466425" duration="9439000" />
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
-      <workItem from="1737342653144" duration="4409000" />
+      <workItem from="1737342653144" duration="4505000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
