@@ -61,7 +61,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.04869792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07421875" />
       <window_info id="Commit" order="1" weight="0.1783854" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
@@ -74,7 +74,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.121800944" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.27251184" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.22701421" />
@@ -157,7 +157,7 @@
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
       <workItem from="1737364422629" duration="3311000" />
-      <workItem from="1737369265906" duration="4887000" />
+      <workItem from="1737369265906" duration="6312000" />
     </task>
     <task id="LOCAL-00013" summary="infra ui fixes 2">
       <option name="closed" value="true" />
