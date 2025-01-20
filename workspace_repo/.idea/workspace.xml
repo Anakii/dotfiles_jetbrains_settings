@@ -8,10 +8,7 @@
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat/chat-chart-response/chat-chart-response.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat/chat-chart-response/chat-chart-response.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,21 +39,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Karma.ai-ui-state.store.spec.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/workspace/hibob-web-client/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Karma.ai-ui-state.store.spec.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "or/reports-add-schedule-report-status-indicaion-to-grid",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/workspace/hibob-web-client/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -64,7 +61,7 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15390626" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453124" />
       <window_info id="Commit" order="1" weight="0.15390626" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
@@ -77,7 +74,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3255924" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3085308" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.22701421" />
@@ -159,6 +156,7 @@
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
+      <workItem from="1737364422629" duration="188000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
