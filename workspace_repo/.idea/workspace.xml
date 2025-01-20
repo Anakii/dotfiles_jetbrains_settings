@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/ai-chart/charts-config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/ai-chart/charts-config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat/chat-chart-response/chat-chart-response.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat/chat-chart-response/chat-chart-response.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
@@ -156,7 +157,7 @@
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
       <workItem from="1737342653144" duration="4505000" />
-      <workItem from="1737364422629" duration="188000" />
+      <workItem from="1737364422629" duration="924000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
