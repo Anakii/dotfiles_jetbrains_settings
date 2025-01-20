@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="fix test">
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat-input-new/chat-input-new.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat-new/chat-input-new/chat-input-new.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +60,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13567708" />
-      <window_info id="Commit" order="1" weight="0.13567708" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.098697916" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15390626" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -72,10 +73,10 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.28672987" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.15023696" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
-      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.42890996" />
+      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.22701421" />
       <window_info anchor="bottom" id="Debug" order="8" />
       <window_info anchor="right" id="Endpoints" />
       <window_info anchor="right" id="documentation.v2" side_tool="true" />
@@ -153,6 +154,7 @@
       <workItem from="1737013466425" duration="9439000" />
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
+      <workItem from="1737342653144" duration="825000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
