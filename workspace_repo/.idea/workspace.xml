@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-context-controller-service/ai-context-controller.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/services/src/lib/ai-response-mapper-service/ai-response-mapper.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/common/ai/ui/src/lib/components/ai-chat-container/ai-chat-container.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/company-reports.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/data/src/lib/reports.enums.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/services/company-reports/reports-folders-view-service/reports-folders-view.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/platform/bob-style/ai/src/lib/chat/chat.interface.ts" afterDir="false" />
     </list>
@@ -61,8 +63,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.098697916" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.15390626" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15390626" />
+      <window_info id="Commit" order="1" weight="0.15390626" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -155,7 +157,7 @@
       <workItem from="1737013466425" duration="9439000" />
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
-      <workItem from="1737342653144" duration="3662000" />
+      <workItem from="1737342653144" duration="4137000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
