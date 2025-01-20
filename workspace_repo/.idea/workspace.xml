@@ -76,7 +76,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.22701421" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3255924" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.22701421" />
@@ -157,7 +157,7 @@
       <workItem from="1737013466425" duration="9439000" />
       <workItem from="1737024471939" duration="5926000" />
       <workItem from="1737291999777" duration="3608000" />
-      <workItem from="1737342653144" duration="4137000" />
+      <workItem from="1737342653144" duration="4409000" />
     </task>
     <task id="LOCAL-00011" summary=" modify ai search api payload">
       <option name="closed" value="true" />
