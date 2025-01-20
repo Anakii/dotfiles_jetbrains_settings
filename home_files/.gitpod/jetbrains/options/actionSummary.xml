@@ -16,64 +16,64 @@
       <i c="1" l="1737369368946" />
     </e>
     <e n="EditorBackSpace">
-      <i c="67" l="1737377145656" />
+      <i c="103" l="1737378628336" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="16" l="1737377612289" />
+      <i c="20" l="1737378645690" />
     </e>
     <e n="EditorCopy">
-      <i c="49" l="1737376796628" />
+      <i c="59" l="1737378400801" />
     </e>
     <e n="EditorCut">
       <i c="4" l="1737376333638" />
     </e>
     <e n="EditorDown">
-      <i c="34" l="1737376511941" />
+      <i c="40" l="1737378643625" />
     </e>
     <e n="EditorDuplicate">
-      <i c="2" l="1737373027841" />
+      <i c="3" l="1737377947211" />
     </e>
     <e n="EditorEnter">
-      <i c="39" l="1737377423860" />
+      <i c="49" l="1737378624078" />
     </e>
     <e n="EditorLeft">
-      <i c="155" l="1737376593868" />
+      <i c="244" l="1737378642194" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="15" l="1737374932600" />
+      <i c="37" l="1737377950589" />
     </e>
     <e n="EditorLineEnd">
-      <i c="15" l="1737376593709" />
+      <i c="21" l="1737378643932" />
     </e>
     <e n="EditorLineEndWithSelection">
       <i c="3" l="1737375259550" />
     </e>
     <e n="EditorLineStart">
-      <i c="7" l="1737376577069" />
+      <i c="12" l="1737378649624" />
     </e>
     <e n="EditorLineStartWithSelection">
-      <i c="3" l="1737376513019" />
+      <i c="4" l="1737378615190" />
     </e>
     <e n="EditorNextWord">
       <i c="2" l="1737375550767" />
     </e>
     <e n="EditorPaste">
-      <i c="44" l="1737376598394" />
+      <i c="55" l="1737378611846" />
     </e>
     <e n="EditorRight">
-      <i c="41" l="1737376597092" />
+      <i c="65" l="1737378622651" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="56" l="1737375547036" />
     </e>
     <e n="EditorSelectWord">
-      <i c="60" l="1737377148007" />
+      <i c="68" l="1737378739330" />
     </e>
     <e n="EditorTab">
-      <i c="2" l="1737375717977" />
+      <i c="10" l="1737378650257" />
     </e>
     <e n="EditorUp">
-      <i c="43" l="1737376351642" />
+      <i c="49" l="1737378628734" />
     </e>
     <e n="GitCheckoutAction">
       <i c="1" l="1737038587222" />
@@ -84,14 +84,17 @@
     <e n="InsertInlineCompletionAction">
       <i c="3" l="1737374926135" />
     </e>
+    <e n="MoveLineDown">
+      <i c="1" l="1737377869234" />
+    </e>
     <e n="MoveLineUp">
-      <i c="1" l="1737043792262" />
+      <i c="2" l="1737378625080" />
     </e>
     <e n="RestartIde">
       <i c="1" d="1" l="1737041214940" k="1737041214940" />
     </e>
     <e n="SaveAll">
-      <i c="30" l="1737377613568" />
+      <i c="35" l="1737378740877" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1737039993066" />
