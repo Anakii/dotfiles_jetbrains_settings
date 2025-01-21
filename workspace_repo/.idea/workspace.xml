@@ -70,7 +70,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3265403" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.25734597" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.21658768" />
@@ -155,7 +155,7 @@
       <workItem from="1737364422629" duration="3311000" />
       <workItem from="1737369265906" duration="10616000" />
       <workItem from="1737387989156" duration="778000" />
-      <workItem from="1737458244531" duration="9654000" />
+      <workItem from="1737458244531" duration="9725000" />
     </task>
     <task id="LOCAL-00018" summary="add mock">
       <option name="closed" value="true" />
