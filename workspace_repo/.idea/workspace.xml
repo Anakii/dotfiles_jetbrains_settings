@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="rebase">
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.service.ts" afterDir="false" />
+    <list default="true" id="9774be1d-1789-42eb-a371-fda5201e944f" name="Changes" comment="allow ask unsaved reports">
+      <change beforePath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/libs/features/core/reports/features/src/lib/components/report-viewer/report-viewer-grid/report-viewer-grid.service.spec.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="or/infra-add-error-msg-when-chat-polling-failed" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Karma.ai-ui-state.store.spec.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/workspace/hibob-web-client/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Karma.ai-ui-state.store.spec.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "or/infra-ai-dialog-allow-ask-unsaved-reports",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/workspace/hibob-web-client/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
     <layout>
       <window_info id="Bookmarks" side_tool="true" />
@@ -59,8 +57,8 @@
       <window_info id="npm" side_tool="true" />
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591146" />
-      <window_info id="Commit" order="1" weight="0.2591146" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2591146" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.2591146" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -157,15 +155,7 @@
       <workItem from="1737364422629" duration="3311000" />
       <workItem from="1737369265906" duration="10616000" />
       <workItem from="1737387989156" duration="778000" />
-      <workItem from="1737458244531" duration="8370000" />
-    </task>
-    <task id="LOCAL-00015" summary="update server with view when dialog open and view changed">
-      <option name="closed" value="true" />
-      <created>1735473860371</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1735473860371</updated>
+      <workItem from="1737458244531" duration="9337000" />
     </task>
     <task id="LOCAL-00016" summary="ai dialog ui fixes part 4">
       <option name="closed" value="true" />
@@ -551,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737461306874</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="allow ask unsaved reports">
+      <option name="closed" value="true" />
+      <created>1737472550450</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1737472550451</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -800,7 +798,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="use only askAboutMyDataToggle toggle" />
     <MESSAGE value="make context required" />
     <MESSAGE value="make table download0action more generic" />
     <MESSAGE value="change ai initial response to include display name and not first name" />
@@ -825,7 +822,8 @@
     <MESSAGE value="small fix" />
     <MESSAGE value="add error msg when chat polling failed" />
     <MESSAGE value="rebase" />
-    <option name="LAST_COMMIT_MESSAGE" value="rebase" />
+    <MESSAGE value="allow ask unsaved reports" />
+    <option name="LAST_COMMIT_MESSAGE" value="allow ask unsaved reports" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
