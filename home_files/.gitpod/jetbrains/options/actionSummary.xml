@@ -196,7 +196,7 @@
       <i c="1" l="1736363715125" />
     </e>
     <e n="SaveAll">
-      <i c="766" l="1737474077077" />
+      <i c="767" l="1737474148060" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="14" l="1737018794889" />
@@ -230,6 +230,9 @@
     </e>
     <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
       <i c="1" l="1735717339688" />
+    </e>
+    <e n="com.intellij.vcs.commit.RerunCommitChecksAction">
+      <i c="1" l="1737474138752" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="4" l="1735647505116" />

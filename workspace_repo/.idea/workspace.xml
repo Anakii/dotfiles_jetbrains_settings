@@ -58,7 +58,7 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.2591146" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.2591146" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.4450521" />
       <window_info id="Qodo Gen Chat" order="2" />
       <window_info id="Welcome to GitHub Copilot" order="3" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
@@ -70,7 +70,7 @@
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Services" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.25734597" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.18530805" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.29241705" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.2080851" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.21658768" />
@@ -155,7 +155,7 @@
       <workItem from="1737364422629" duration="3311000" />
       <workItem from="1737369265906" duration="10616000" />
       <workItem from="1737387989156" duration="778000" />
-      <workItem from="1737458244531" duration="9741000" />
+      <workItem from="1737458244531" duration="10244000" />
     </task>
     <task id="LOCAL-00018" summary="add mock">
       <option name="closed" value="true" />
