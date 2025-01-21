@@ -13,10 +13,10 @@
       <i c="5" l="1737367248042" />
     </e>
     <e n="$SelectAll">
-      <i c="39" l="1737366980757" />
+      <i c="40" l="1737461125868" />
     </e>
     <e n="$Undo">
-      <i c="507" l="1737459404735" />
+      <i c="509" l="1737468739956" />
     </e>
     <e n="Annotate">
       <i c="6" l="1736929787019" />
@@ -49,16 +49,16 @@
       <i c="29" l="1737459749637" />
     </e>
     <e n="EditorBackSpace">
-      <i c="3101" l="1737460836476" />
+      <i c="3117" l="1737468836754" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="494" l="1737460657367" />
+      <i c="498" l="1737468840434" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1735720949397" />
     </e>
     <e n="EditorCopy">
-      <i c="1148" l="1737460602711" />
+      <i c="1152" l="1737461142560" />
     </e>
     <e n="EditorCut">
       <i c="93" l="1737347228711" />
@@ -67,7 +67,7 @@
       <i c="176" l="1737015123115" />
     </e>
     <e n="EditorDown">
-      <i c="818" l="1737459430092" />
+      <i c="819" l="1737460987898" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="1" l="1735641085925" />
@@ -76,7 +76,7 @@
       <i c="97" l="1737366214323" />
     </e>
     <e n="EditorEnter">
-      <i c="842" l="1737460753291" />
+      <i c="850" l="1737468834427" />
     </e>
     <e n="EditorEscape">
       <i c="5" l="1737347980194" />
@@ -85,19 +85,19 @@
       <i c="5" l="1736324488805" />
     </e>
     <e n="EditorLeft">
-      <i c="3778" l="1737459504914" />
+      <i c="3798" l="1737468826307" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="1375" l="1737459346999" />
+      <i c="1376" l="1737461138066" />
     </e>
     <e n="EditorLineEnd">
-      <i c="226" l="1737459432583" />
+      <i c="229" l="1737468809028" />
     </e>
     <e n="EditorLineEndWithSelection">
-      <i c="72" l="1737347507046" />
+      <i c="73" l="1737460991031" />
     </e>
     <e n="EditorLineStart">
-      <i c="89" l="1737366741258" />
+      <i c="90" l="1737460999720" />
     </e>
     <e n="EditorLineStartWithSelection">
       <i c="77" l="1737459433588" />
@@ -109,19 +109,19 @@
       <i c="1" l="1735555928846" />
     </e>
     <e n="EditorPaste">
-      <i c="1117" l="1737460753643" />
+      <i c="1121" l="1737461136263" />
     </e>
     <e n="EditorPreviousWordWithSelection">
       <i c="1" l="1736229436899" />
     </e>
     <e n="EditorRight">
-      <i c="3497" l="1737459506531" />
+      <i c="3519" l="1737468829653" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="1254" l="1737347459659" />
     </e>
     <e n="EditorSelectWord">
-      <i c="1702" l="1737460720183" />
+      <i c="1711" l="1737468787821" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1735441867844" />
@@ -130,7 +130,7 @@
       <i c="54" l="1737459080555" />
     </e>
     <e n="EditorUp">
-      <i c="681" l="1737459429035" />
+      <i c="684" l="1737468828474" />
     </e>
     <e n="Find">
       <i c="4" l="1736340602623" />
@@ -139,22 +139,22 @@
       <i c="2" l="1737347273679" />
     </e>
     <e n="FindUsages">
-      <i c="41" l="1737343227262" />
+      <i c="42" l="1737463123051" />
     </e>
     <e n="Git.Unstash">
       <i c="1" l="1734972071082" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="67" l="1737388007747" />
+      <i c="68" l="1737468628527" />
     </e>
     <e n="GitCheckoutFromInputAction">
       <i c="1" l="1737021553711" />
     </e>
     <e n="GitNewBranchAction">
-      <i c="37" l="1737366955883" />
+      <i c="38" l="1737461104688" />
     </e>
     <e n="GotoDeclaration">
-      <i c="692" l="1737460750227" />
+      <i c="695" l="1737463113361" />
     </e>
     <e n="InsertInlineCompletionAction">
       <i c="10" l="1737366735753" />
@@ -196,7 +196,7 @@
       <i c="1" l="1736363715125" />
     </e>
     <e n="SaveAll">
-      <i c="743" l="1737460836843" />
+      <i c="747" l="1737468843223" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="14" l="1737018794889" />
@@ -208,7 +208,7 @@
       <i c="1" l="1736345257705" />
     </e>
     <e n="com.intellij.diff.actions.ProxyUndoRedoAction">
-      <i c="11" l="1736345557479" />
+      <i c="12" l="1737461212766" />
     </e>
     <e n="com.intellij.execution.actions.BaseRunConfigurationAction$1">
       <i c="1" l="1735475803988" />
@@ -217,7 +217,7 @@
       <i c="1" l="1737023952609" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="61" l="1737367758973" />
+      <i c="73" l="1737461291493" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="1" l="1736341692640" />
